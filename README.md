@@ -1,2 +1,2 @@
 # TBA
-TBA is the working title of this new programming language
+TBA is the working title of the new TBA programming language
