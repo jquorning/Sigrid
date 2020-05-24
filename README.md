@@ -1,8 +1,6 @@
-# TBA
+# The Sigrid Programming Language
 
-TBA is the working title of the new TBA programming language
-
-The thriving TBA community is thrilled to receive the new version when it arrives.
+The thriving Sigrid community is thrilled to receive the new version when it arrives.
 
 Some of the key features are:
 
@@ -12,4 +10,4 @@ Some of the key features are:
 
 We expect a fully working toolchain is availabe in a few months time.
 
-Previews of TBA are available [here](https://www.google.com/search?client=safari&tbm=isch&sxsrf=ALeKk03P0O3l-MnY_TA5xOI4ghgLrki61w%3A1590232040886&source=hp&ei=6APJXq-4M4z6kwX0xZLQAQ&q=sigrid&oq=sigrid&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIECCMQJzIECCMQJzIECCMQJzICCAAyAggAOgcIIxDqAhAnOgQIABADUNwZWKQqYI85aAFwAHgAgAFGiAHmApIBATaYAQCgAQGwAQU&sclient=mobile-gws-wiz-img).
+Previews of Sigrid are available [here](https://www.google.com/search?q=sigrid+-music&tbm=isch&ved=2ahUKEwjc1I2p78zpAhUZtKQKHZrTBL0Q2-cCegQIABAA&oq=sigrid+-music&gs_lcp=CgNpbWcQAzoCCAA6BAgAEEM6BAgAEBM6BggAEB4QE1DzP1iTTWC-TmgAcAB4AIABWYgBhgOSAQE3mAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=DZrKXpyaCpnokgWap5PoCw&bih=737&biw=1439)
